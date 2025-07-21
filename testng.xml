@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MMT Train Booking Suite">
+    <test name="Book Train Ticket">
+        <classes>
+            <class name="com.mmt.tests.TrainBookingTest"/>
+        </classes>
+    </test>
+</suite>
